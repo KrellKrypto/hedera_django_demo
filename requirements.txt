@@ -1,0 +1,10 @@
+asgiref==3.4.1
+Cython==0.29.24
+Django==3.2.8
+django-decouple==2.1
+hedera-sdk-py==2.1.0
+pyjnius==1.4.0
+pytz==2021.3
+six==1.16.0
+sqlparse==0.4.2
+typing-extensions==3.10.0.2
