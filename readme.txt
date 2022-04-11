@@ -7,7 +7,7 @@ Django project demo that uses Hedera Hashgraph HBAR to pay for goods. NOT PRODUC
 Note: You need to create a testnet acount with Hedera to follow this tutorial and ensure virtualenvwrapper is installed to manage the
 python VE
 
-visit: https://portal.hedera.com/register
+vist: https://portal.hedera.com/register
 
 save your Acc number to your environment varibles as OPERATOR_ID
 
